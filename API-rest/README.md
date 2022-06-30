@@ -16,3 +16,28 @@ Rest has 6 basic rules:
   - HATEOAS: Hypertext As The Engine Of Application State: Be able to return links inside our request;
 - Layering: There should be layers between client and server;
 - On-demand code: Allows for client functionalities to be extended by scripts;
+
+# HTTP
+
+### HTTP Requests:
+- GET: Read/get info from API;
+- POST: Send NEW information to the API;
+- PUT: Update information to the API;
+- DELETE: Self explanatory;
+- PATCH: Partial update;
+
+### HTTP Return Codes:
+Code is divided by hundreds, where the first number declare its type and the following two specify what exactly it is. For example, 200-299 means that it was successful. But each has its own meaning 200 is simply OK, 201 is CREATED.
+The types are:
+- 1xx: Informative;
+- 2xx: Confirmation;
+- 3xx: Redirecting;
+- 4xx: Error - Client side;
+- 5xx: Error - Server side;
+
+### Parameters
+When trying to consume an API, not only you need to know the route, but also the parameters that that route needs. There are several types of parameters:
+- Headers;
+- Query;
+- Route;
+- Body;
