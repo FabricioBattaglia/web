@@ -1,4 +1,4 @@
-# Node.js class  
+# Node.js basics  
 
 ## What is Node.js?  
 - Open source platform that allows for javascript to be executed on the server side
