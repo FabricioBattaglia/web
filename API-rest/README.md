@@ -1,4 +1,4 @@
-# Rest API
+# REST API and HTTP basics
 
 ### What is an API?
 An API is basically the middleman between applications, dealing with interactions. API stands for Application Programming Interface. It specifies how an application can be used by developers through documentation. A great example of API and its' documentation is [the github API](https://docs.github.com/en/rest/repos). Therefore, it is really important to document well the API endpoints, routes, and returns when creating an API.
