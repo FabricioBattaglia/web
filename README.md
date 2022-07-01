@@ -1,4 +1,5 @@
 # Web development:
+This repository is my personal "notebook" on learning web development. The intention is not for this to teach anyone web development, but to be a guide that can be checked whenever I forget something or just need to make sure it is done the right way. Also it will have some projects that will also provide base for future projects, serving as a reminder of how to approach and do some things.
 
 ### The basics:
 - [Node.js basics](https://github.com/FabricioBattaglia/web/tree/main/node.js)
