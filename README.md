@@ -5,5 +5,6 @@ This repository is my personal "notebook" on learning web development. The inten
 - [Node.js basics](https://github.com/FabricioBattaglia/web/tree/main/node.js)
 - [REST API and HTTP basics](https://github.com/FabricioBattaglia/web/tree/main/API-rest)
 - [Hello, world!](https://github.com/FabricioBattaglia/web/tree/main/project-startup)
+- [Nodemon](https://github.com/FabricioBattaglia/web/tree/main/nodemon)
 
 DISCLAIMER: These notes are based on lectures that I have watched, but written with my own words. No intention of copywright infringement.
