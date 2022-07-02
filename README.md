@@ -7,5 +7,9 @@ This repository is my personal "notebook" on learning web development. The inten
 - [Hello, world!](https://github.com/FabricioBattaglia/web/tree/main/003-helloworld)
 - [Nodemon](https://github.com/FabricioBattaglia/web/tree/main/004-nodemon)
 - [HTTP requests/Enhancing Hello, world!](https://github.com/FabricioBattaglia/web/tree/main/005-enhancing-helloworld)
+  
+### First project:
+- [Banking API](https://github.com/FabricioBattaglia/web/tree/main/006-first-project)
+- [API Documentation](https://github.com/FabricioBattaglia/web/blob/main/006-first-project/APIDOC.md)
 
 DISCLAIMER: These notes are based on lectures that I have watched, but written with my own words. No intention of copywright infringement.
