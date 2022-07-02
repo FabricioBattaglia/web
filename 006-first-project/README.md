@@ -1,5 +1,5 @@
 # First project - Banking API
-Oddly enough, this project will be very similar to the one I had to develop in golang for my first job as an interview challange (but that time it was developed in Go). This readme file will hold the requirements for the first project and it will also comment on how it goes about it, discussing important points. We will also document our API [here]()
+Oddly enough, this project will be very similar to the one I had to develop in golang for my first job as an interview challange (but that time it was developed in Go). This readme file will hold the requirements for the first project and it will also comment on how it goes about it, discussing important points. We will also document our API [here](https://github.com/FabricioBattaglia/web/blob/main/006-first-project/APIDOC.md)
 
 ## Project details:
 ### Requirements:
@@ -261,7 +261,7 @@ app.delete("/account", checkAccountExistsBySSN, (request, response) => {
 });
 ```
 Wow... this is it! We did it! we have a fully functional API! The source code is inside folder "006-first-project/src"
-Also check documentation for the API [here]()
+Also check documentation for the API [here](https://github.com/FabricioBattaglia/web/blob/main/006-first-project/APIDOC.md)
 
 # Source code:
 ```javascript
