@@ -16,5 +16,6 @@ A repository to document with great detail the process of learning web developme
 
 ### Project 2:
 - [To-do API](https://github.com/FabricioBattaglia/web/tree/main/007-to-do-API)
+- [Adding middlewares](https://github.com/FabricioBattaglia/web/tree/main/008-adding-middlewares)
 
 DISCLAIMER: These notes are based on lectures that I have watched, but written with my own words. No intention of copywright infringement.
