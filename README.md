@@ -3,7 +3,7 @@ A repository to document with great detail the process of learning web developme
 
 ## Backend - Node.js
 
-### The basics:
+### Chapter 1 - The basics:
 - [Node.js basics](https://github.com/FabricioBattaglia/web/tree/main/001-node.js)
 - [REST API and HTTP basics](https://github.com/FabricioBattaglia/web/tree/main/002-API-rest)
 - [Hello, world!](https://github.com/FabricioBattaglia/web/tree/main/003-helloworld)
@@ -17,5 +17,8 @@ A repository to document with great detail the process of learning web developme
 ### Project 2:
 - [To-do API](https://github.com/FabricioBattaglia/web/tree/main/007-to-do-API)
 - [Adding middlewares](https://github.com/FabricioBattaglia/web/tree/main/008-adding-middlewares)
+
+### Chapter 2 - Going in depth:
+- [Typescript](https://github.com/FabricioBattaglia/web/tree/main/009-typescript)
 
 DISCLAIMER: These notes are based on lectures that I have watched, but written with my own words. No intention of copywright infringement.
