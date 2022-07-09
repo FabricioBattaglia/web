@@ -20,5 +20,6 @@ A repository to document with great detail the process of learning web developme
 
 ### Chapter 2 - Going in depth:
 - [Typescript](https://github.com/FabricioBattaglia/web/tree/main/009-typescript)
+- [How to start a project/Hello, world!](https://github.com/FabricioBattaglia/web/tree/main/010-helloworld-ts)
 
 DISCLAIMER: These notes are based on lectures that I have watched, but written with my own words. No intention of copywright infringement.
