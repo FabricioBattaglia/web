@@ -4,6 +4,7 @@ A repository to document with great detail the process of learning web developme
 ## Backend - Node.js
 
 ### Chapter 1 - The basics:
+- [Javascript Basics](https://github.com/FabricioBattaglia/web/tree/main/000-Javascript)
 - [Node.js basics](https://github.com/FabricioBattaglia/web/tree/main/001-node.js)
 - [REST API and HTTP basics](https://github.com/FabricioBattaglia/web/tree/main/002-API-rest)
 - [Hello, world!](https://github.com/FabricioBattaglia/web/tree/main/003-helloworld)
