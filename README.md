@@ -24,4 +24,11 @@ A repository to document with great detail the process of learning web developme
 - [How to start a project/Hello, world!](https://github.com/FabricioBattaglia/web/tree/main/010-helloworld-ts)
 - [ESLint and Prettier](https://github.com/FabricioBattaglia/web/tree/main/011-ESLint-Prettier)
 
+### A Change of Face:
+- [Change of face](https://github.com/FabricioBattaglia/web/tree/main/012-Change-of-Face)
+
+### Chapter 2 continuation:
+- [Router](https://github.com/FabricioBattaglia/web/tree/main/013-Router)
+- [The Shop Project](https://github.com/FabricioBattaglia/web/tree/main/014-Shop-project)
+
 DISCLAIMER: These notes are based on lectures that I have watched, but written with my own words. No intention of copywright infringement.
