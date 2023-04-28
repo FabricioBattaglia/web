@@ -27,8 +27,8 @@ A repository to document with great detail the process of learning web developme
 ### A Change of Face:
 - [Change of face](https://github.com/FabricioBattaglia/web/tree/main/012-Change-of-Face)
 
-### Chapter 2 continuation:
+### Chapter 3 Express:
 - [Router](https://github.com/FabricioBattaglia/web/tree/main/013-Router)
-- [The Shop Project](https://github.com/FabricioBattaglia/web/tree/main/014-Shop-project)
+- [Express](https://github.com/FabricioBattaglia/web/tree/main/014-Express)
 
 DISCLAIMER: These notes are based on lectures that I have watched, but written with my own words. No intention of copywright infringement.
